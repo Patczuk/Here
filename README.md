@@ -1,6 +1,6 @@
 # Here
 
-Testing framework is using Cypress
+Testing framework is Cypress
 
 Tests are stored in cypress/e2e
 
